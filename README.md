@@ -21,3 +21,7 @@
 ### `Promise.allSettled`
 
 [>>> Code](https://github.com/dongyuanxin/diy-promise/blob/master/Promise.allSettled.js)
+
+### `Promise.finally`
+
+[>>> Code](https://github.com/dongyuanxin/diy-promise/blob/master/Promise.finally.js)
