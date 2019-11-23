@@ -1,8 +1,5 @@
-require('./Promise.all')
-
-function genTimeoutPromise(timeout) {
-  return new Promise(resolve => setTimeout(() => resolve(timeout), timeout))
-}
+const _ = require('./Promise.all')
+const { genTimeoutPromise } = require('./util')
 
 const promises = [1, 2, 3].map(item => genTimeoutPromise(item * 100))
 Promise.myAll(promises)
