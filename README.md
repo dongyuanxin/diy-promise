@@ -1,8 +1,13 @@
 # DIY Promise
 
+## 相关文章
+
+- [手动实现`Promise`的相关方法](https://xin-tan.com/passages/2019-11-23-promise-methods/)
+- [让我们再来聊聊`Promise`的实现](https://xin-tan.com/passages/2019-11-25-promise-a-plus/)
+
 ## Promise
 
-
+[>>> Code](https://github.com/dongyuanxin/diy-promise/blob/master/Promise.js)
 
 ## Methods
 
